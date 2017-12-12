@@ -27,17 +27,23 @@ header h1 {
 
     font-size: 5vw;
 }
+.signature {
+    font-family: 'Carter One', cursive;
+    font-size: 36px;
+    color: black;
+    text-shadow: 0px 0px 0px transparent;
+}
 h1 {
     font-family: 'Press Start 2P', cursive;
     padding: 0;
     margin: 0;
 }
-p {
+.content {
     margin: 0 5%;
     padding: 15vh 0 25vh 0;
     font-size: 24px;
 }
-.content {
+.body {
     background: #F7931E;
     width: 100%;
     font-family: 'Carter One', cursive;
@@ -91,7 +97,6 @@ section h2 {
 .myth5 {
     background: rgb(193,39,45)    
 }
-
 
 
 
